@@ -1,2 +1,2 @@
 * linguist-vendored
-*.cmake linguist-vendored=false
+*.dart linguist-vendored=false
